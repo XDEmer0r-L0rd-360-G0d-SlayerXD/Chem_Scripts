@@ -1,5 +1,6 @@
 import string
 
+# Using extra () in formulas is extremely risky and still has bugs
 
 class Element:
 
